@@ -27,14 +27,25 @@ Secund STEP !
 ![image](https://github.com/mrsitech/Rest-Viacep-Poc-Endpoint/assets/69021207/22194ca0-063c-4f84-8a0a-4ac63f61fcc1)
 
 
+
 Third STEP !
+
 3-a) Criar o Controller
+
 3-b) Criar o Server
+
 3-c) Criar a Conexão via FEIGN CLIENT rest
+
+.
+.
+.
+
 
 
 Fourth STEP !
 
+
 Ao Rodar a API na maquina irá ser criado uma maquina local via Apache, o qual será possível por POSTMAN acessar a API
 Faça o teste de conexão via postman
+
 ![image](https://github.com/mrsitech/Rest-Viacep-Poc-Endpoint/assets/69021207/9705578c-63d6-4d19-b3a7-45c81ea17d97)
