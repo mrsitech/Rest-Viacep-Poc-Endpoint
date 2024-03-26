@@ -15,6 +15,5 @@ public class ViacepService {
 	public ResponseEntity<ViacepResponseDto> find() {
 
 		return viacepFeign.getAll();
-
 	}
 }
